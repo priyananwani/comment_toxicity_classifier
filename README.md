@@ -6,7 +6,7 @@ license: mit
 This model helps to predict the is a comment/sentence is hateful on various parameters such as toxicity, severe toxicity, obscene, threat, insult and racism.
 
 
-### Test the model here :  <a href="https://huggingface.co/spaces/pvcodes/comment_toxicity_classifier">pvcodes/comment_toxicity_classifier</a>
+### Test the model here :  <a href="https://huggingface.co/spaces/pvcodes/comment_toxicity_classifier">priyananwani/comment_toxicity_classifier</a>
 
 
 <br>
@@ -37,6 +37,6 @@ This model helps to predict the is a comment/sentence is hateful on various para
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br>
-    From <a href="https://github.com/pvcodes/pvcodes">pvcodes</a>
+    From <a href="https://github.com/priyananwani/priyananwani">Priya Nanwani</a>
   </p>
 </samp>
